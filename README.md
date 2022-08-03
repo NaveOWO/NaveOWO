@@ -1,6 +1,4 @@
-<div align="center"> <h1>Hi, I'm Nave 🍊</h1></div>
-![image](https://user-images.githubusercontent.com/87578512/182604280-2670880f-a0cc-4ee3-8905-fbb1c8477d2e.png)
-![image](https://user-images.githubusercontent.com/87578512/178135117-a1c2c380-a63c-4435-990b-0fcb501820ba.png)
+<div align="center"> <h2>Hi, I'm Nave 🍊</h2></div>
 
 <!--
 **NaveOWO/NaveOWO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <h2>🌱 I’m currently learning ... </h2> </div>
+<div align="center">
+<img width="50%" src="https://user-images.githubusercontent.com/87578512/182604908-ae17aa53-bc24-4acd-8632-0c926aea22a2.png"/>
+</div>
+
+<div align="center"> <h3>🍊 I’m currently learning ... 🍊 </h3> </div>
 <div align="center">
   <div>
   <img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
@@ -28,6 +30,13 @@ Here are some ideas to get you started:
   <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=for-the-badge&logo=Styled-components&logoColor=white">
-    
   </div>
 </div>
+  <br></br>
+  <div align=center>
+
+![NaveOWO's github stats](https://github-readme-stats.vercel.app/api?username=NaveOWO&show_icons=true&theme=tokyonight)  
+
+  </div>
+
+
