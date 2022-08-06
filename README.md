@@ -1,14 +1,13 @@
 <h2>Hi, I'm Nave 👋</h2>
 
-> I want to be a developer who is constantly improving
 
-> <h3> 💭 About me </h3>
+> <h2> 💭 About me </h2>
 
 + From : Sookmyung Womans Univ. (Business Administration)
 + Contact : pianowell@gmail.com
 + Tistory : https://actofnaving.tistory.com
 
-> <h3> 🔗 Tech Stack  </h3> 
+> <h2> 🔗 Tech Stack  </h2> 
 
   <div>
   <img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
