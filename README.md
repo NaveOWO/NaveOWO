@@ -4,7 +4,7 @@
 > <h2> 💭 About me </h2>
 
 + From : Sookmyung Womans Univ. (Business Administration)
-+ Contact : pianowell@gmail.com
++ Contact : pianowell96@gmail.com
 + Tistory : https://actofnaving.tistory.com
 
 
