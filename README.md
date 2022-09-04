@@ -6,7 +6,6 @@
 + From : Sookmyung Womans Univ. (Business Administration)
 + Contact : pianowell@gmail.com
 + Tistory : https://actofnaving.tistory.com
-+ Notion : https://www.notion.so/Front-End-e847ebae5194419a93086aee72c23b09
 
 
 > <h2> 🔗 Tech Stack  </h2> 
