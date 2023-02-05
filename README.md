@@ -1,6 +1,7 @@
 <h2>Hi, I'm Nave 👋</h2>
 
 > <h2> 💭 About me </h2>
+> 
 
 + From : Sookmyung Womans Univ. (Business Administration)
 + Contact : pianowell96@gmail.com
